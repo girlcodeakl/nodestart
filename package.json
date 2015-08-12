@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mgatland/nodestart/issues"
   },
-  "homepage": "https://github.com/mgatland/nodestart"
+  "homepage": "https://github.com/mgatland/nodestart",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
