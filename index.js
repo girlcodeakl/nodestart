@@ -1,6 +1,6 @@
 //set up
-var express = require('express')
-var app = express();
+let express = require('express');
+let app = express();
 
 //If a client asks for a file,
 //look in the public folder. If it's there, give it to them.
