@@ -1,5 +1,5 @@
 {
-  "name": "nodestart",
+  "name": "toasttoppings",
   "version": "0.0.0",
   "description": "a simple Node server",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mgatland/nodestart.git"
+    "url": "https://github.com/girlcodeakl/toasttoppings.git"
   },
   "author": "Girl Code",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mgatland/nodestart/issues"
+    "url": "https://github.com/girlcodeakl/toasttoppings/issues"
   },
-  "homepage": "https://github.com/mgatland/nodestart",
+  "homepage": "https://github.com/girlcodeakl/toasttoppings",
   "dependencies": {
     "body-parser": "^1.13.3",
     "express": "^4.13.3"
